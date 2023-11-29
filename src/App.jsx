@@ -10,7 +10,6 @@ function App() {
     <Header title="Gallery of Horns" />
     <Main />
     <Gallery />
-    <HornedBeast />
     <Footer year="2023"/>
     </>
   );
