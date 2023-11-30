@@ -18,18 +18,24 @@ This is a lab done during Code 301 at Code Fellows
 
 ## Time Estimate
 
-Number and name of feature: Feature #1
+Number and name of feature: Feature #2: Allow Users to Favorite Individual Beasts
 
 Estimate of time needed to complete: 1 hour
 
-Start time: 10:30pm
+Start time: 5:15pm
 
-Finish time: 12:30am
+Finish time: 6:15pmm
 
-Actual time needed to complete: 2 hours
+Actual time needed to complete: 1 hour with help from JB Tellez
 
 ## Images
 
 ### Lighthouse Score
 
 ![Lighthouse Score](img/lighthouse.png "Lighthouse Score")
+
+## Resources
+
+JB Tellez
+
+ChatGPT
