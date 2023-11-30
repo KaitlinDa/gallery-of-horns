@@ -16,6 +16,18 @@ Kaitlin Davis || November 2023
 
 This is a lab done during Code 301 at Code Fellows
 
+## Time Estimate
+
+Number and name of feature: Feature #1
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 10:30pm
+
+Finish time: 12:30am
+
+Actual time needed to complete: 2 hours
+
 ## Images
 
 ### Lighthouse Score
