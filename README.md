@@ -16,8 +16,27 @@ Kaitlin Davis || November 2023
 
 This is a lab done during Code 301 at Code Fellows
 
+## Time Estimate
+
+Number and name of feature: Feature 3: Bootstrap
+
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 6:30pm
+
+Finish time: 8:30pmm
+
+Actual time needed to complete: 2 hours
+
 ## Images
 
 ### Lighthouse Score
 
-![Lighthouse Score](img/lighthouse.png "Lighthouse Score")
+![Lighthouse Score](img/lab02lighthouse.png "Lighthouse Score")
+
+## Resources
+
+JB Tellez
+
+ChatGPT
