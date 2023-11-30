@@ -36,6 +36,12 @@ const Gallery = () => {
   );
 };
 
+// src/
+//   components/
+//     App.jsx
+//   data/
+//     data.json
+
 export default Gallery;
 
 

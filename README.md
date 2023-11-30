@@ -18,16 +18,16 @@ This is a lab done during Code 301 at Code Fellows
 
 ## Time Estimate
 
-Number and name of feature: Feature 3: Bootstrap
+Number and name of feature: Feature #1: Display a Modal
 
 
 Estimate of time needed to complete: 1 hour
 
-Start time: 6:30pm
+Start time: 9:00pm
 
-Finish time: 8:30pmm
+Finish time: 
 
-Actual time needed to complete: 2 hours
+Actual time needed to complete: 
 
 ## Images
 
