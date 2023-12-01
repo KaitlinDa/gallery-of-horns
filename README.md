@@ -18,16 +18,16 @@ This is a lab done during Code 301 at Code Fellows
 
 ## Time Estimate
 
-Number and name of feature: Feature #1: Display a Modal
+Number and name of feature: Feature 1. Filter by Numbers of Horns
 
 
 Estimate of time needed to complete: 3 hour
 
-Start time: 12:00am
+Start time: 
 
-Finish time:10:00pm 
+Finish time:
 
-Actual time needed to complete: 7 hours (on and off)
+Actual time needed to complete: 
 
 ## Images
 
