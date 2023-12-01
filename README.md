@@ -21,19 +21,19 @@ This is a lab done during Code 301 at Code Fellows
 Number and name of feature: Feature #1: Display a Modal
 
 
-Estimate of time needed to complete: 1 hour
+Estimate of time needed to complete: 3 hour
 
-Start time: 9:00pm
+Start time: 12:00am
 
-Finish time: 
+Finish time:10:00pm 
 
-Actual time needed to complete: 
+Actual time needed to complete: 7 hours (on and off)
 
 ## Images
 
 ### Lighthouse Score
 
-![Lighthouse Score](img/lab02lighthouse.png "Lighthouse Score")
+![Lighthouse Score](img/lightlab3.png "Lighthouse Score")
 
 ## Resources
 
