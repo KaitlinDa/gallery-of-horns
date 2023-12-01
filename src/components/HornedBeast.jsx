@@ -4,6 +4,7 @@ const HornedBeast = (props) => {
   const [buttonClicks, setButtonClicks] = useState(0)
   function handleClick() {
     setButtonClicks(buttonClicks+1)
+    props.onClick();
   }
   return (
     <div onClick={handleClick}>
